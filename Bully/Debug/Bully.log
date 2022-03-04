@@ -1,0 +1,4 @@
+﻿  Bully.cpp
+d:\bully\bully\bully.cpp(115): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'sockaddr *'
+  Bully.vcxproj -> D:\Bully\Debug\Bully.exe
+  Bully.vcxproj -> D:\Bully\Debug\Bully.pdb (Full PDB)
